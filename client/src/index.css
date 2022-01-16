@@ -1,0 +1,12 @@
+
+.starting{
+
+    background-image: url(../src/backgroundImage.jpg);
+    background-size: cover;
+    background-position: center;
+    min-height: 100%;
+    height: 100vh;
+    width: 100%;
+    overflow-y: scroll;
+    }
+   
